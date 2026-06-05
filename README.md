@@ -19,7 +19,7 @@
 ## <a href="https://emoji.gg/emoji/394661-github"><img src="https://cdn3.emoji.gg/emojis/394661-github.png" width="32px" height="32px" alt="Github"></a> Über mich
 
 <img align="right" width="40%" src="https://camo.githubusercontent.com/e48401e4018d3287d387998dcbdd928fbe90d0a686ea201ac1dc58f00e5d85c9/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" data-canonical-src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" style="max-width: 100%;">
-Moin zusammen! Ich bin Julian, in der Dev-Szene meist als **SnaX** unterwegs. Mit meinen 15 Jahren bringe ich die nötige Reife, Ausdauer und vor allem eine riesige Portion Leidenschaft für sauberen Code mit. Everything is self-taught – ich habe mir seit meinem 12. Lebensjahr alles komplett selbst beigebracht. Meine Reise begann kurioserweise auf dem Smartphone – heute arbeite ich hochgradig fokussiert in VS Code.
+Moin zusammen! Ich bin Julian, in der Dev-Szene meist als <strong>SnaXi</strong> unterwegs. Mit meinen 15 Jahren bringe ich die nötige Reife, Ausdauer und vor allem eine riesige Portion Leidenschaft für sauberen Code mit. Everything is self-taught – ich habe mir seit meinem 12. Lebensjahr alles komplett selbst beigebracht. Meine Reise begann kurioserweise auf dem Smartphone – heute arbeite ich hochgradig fokussiert in VS Code.
 
 ##### **Mein Ziel nach dem Schulabschluss steht fest:** Ich möchte als Fachinformatiker für Anwendungsentwicklung durchstarten oder mich intensiv im Bereich Webentwicklung & Webdesign spezialisieren.
 
