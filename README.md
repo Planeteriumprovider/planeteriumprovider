@@ -89,3 +89,4 @@ Die Session Verbindungen stehen. Alle Sessions sind aktiv und einsatzbereit.
 ---
 
 <a href="https://emoji.gg/emoji/513618-copyright"><img src="https://cdn3.emoji.gg/emojis/513618-copyright.png" width="15px" height="15px" alt="Copyright"></a> Zarven Entertainment 2026 Copyright.
+<img src="https://camo.githubusercontent.com/17434500d44a463856292fb6ceaeb9eb9bfc33c98b9b7fc6ef7e467ed1cd8041/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=65&amp;section=footer" style="max-width: 100%;">
