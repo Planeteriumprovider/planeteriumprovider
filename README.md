@@ -30,7 +30,7 @@ Moin zusammen! Ich bin Julian, in der Dev-Szene meist als <strong>SnaXi</strong>
 
 ## <a href="https://emoji.gg/emoji/1423-statistics"><img src="https://cdn3.emoji.gg/emojis/1423-statistics.png" width="32px" height="32px" alt="statistics"></a> Statistiken
 
-<img align="left" alt="GIF description" src="https://commit-programmieren.de/wp-content/uploads/2024/05/cropped-2_ohne-Hintergrund-2.png" style="visibility: visible; width:400px; height:400px; max-width: 100%;"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=planeteriumprovider&theme=meta-dark&border_radius=5&locale=de&date_format=j%20M%5B%20Y%5D&fire=FF9110" alt="GitHub Streak" /></a>
+<img align="left" alt="GIF description" src="https://commit-programmieren.de/wp-content/uploads/2024/05/cropped-2_ohne-Hintergrund-2.png" style="visibility: visible; width:40%; height:40%; max-width: 100%;"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=planeteriumprovider&theme=meta-dark&border_radius=5&locale=de&date_format=j%20M%5B%20Y%5D&fire=FF9110" alt="GitHub Streak" /></a>
 
 ---
 
