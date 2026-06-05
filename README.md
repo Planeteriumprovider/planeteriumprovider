@@ -1,3 +1,7 @@
+
+
+<hr style="border: 0; height: 1px; background: rgba(255, 255, 255, 0.1); margin: 20px 0;">
+
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="https://i.imgur.com/RG3ZHZt.jpeg" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ff8a1f; object-fit: cover;" alt="Zarven Logo">
   <div>
