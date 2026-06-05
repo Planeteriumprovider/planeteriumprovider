@@ -5,7 +5,7 @@
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="https://i.imgur.com/RG3ZHZt.jpeg" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ff8a1f; object-fit: cover;" alt="SnaXis Profil">
   <div>
- <a href="https://emoji.gg/emoji/77451-stafficonids"><img src="https://cdn3.emoji.gg/emojis/77451-stafficonids.png" width="40px" height="40px" align="middle" alt="StaffIconIDS"></a><strong>Julian | SnaXi</strong>
+ <a href="https://emoji.gg/emoji/77451-stafficonids"><img src="https://cdn3.emoji.gg/emojis/77451-stafficonids.png" width="50px" height="50px" align="middle" alt="StaffIconIDS"></a>  <strong>Julian | SnaXi</strong>
     <span>Self-taught Web Developer & Bot Engineer</span>
   </div>
 </div>
