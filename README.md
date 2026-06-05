@@ -35,7 +35,7 @@ Moin zusammen! Ich bin Julian, in der Dev-Szene meist als <strong>SnaXi</strong>
 ---
 
 ## <a href="https://emoji.gg/emoji/249630-gradientgear"><img src="https://cdn3.emoji.gg/emojis/249630-gradientgear.png" width="32px" height="32px" alt="GradientGear"></a> Tech-Stack & Fokus
-
+<img align="left" alt="GIF description" src="/Nolt-Gabriel/kiran1689/raw/main/Skills_Animation_White.gif" style="visibility: visible; max-width: 100%;">
 Ich bewege mich hauptsächlich im Web-Backend und Frontend. Mein Fokus liegt auf funktionalen Webanwendungen, Datenbankarchitekturen und Suchmaschinenoptimierung.
 
 ### Sprachen & Datenstrukturen
