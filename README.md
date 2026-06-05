@@ -1,26 +1,77 @@
-<h1 align="center">Hey, ich bin Julian oder auch SnaXi</h1>
-<h3 align="center">Ein junger Entwickler aus Deutschland.</h3>
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://i.imgur.com/RG3ZHZt.jpeg" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ff8a1f; object-fit: cover;" alt="Zarven Logo">
+  <div>
+    <strong style="color: #f8fafc; font-size: 22px;">Julian | SnaX</strong><br>
+    <span style="color: #ff8a1f; font-size: 16px;">Self-taught Web Developer & Bot Engineer</span>
+  </div>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=planeteriumprovider" alt="planeteriumprovider" /></a> </p>
+<hr style="border: 0; height: 1px; background: rgba(255, 255, 255, 0.1); margin: 20px 0;">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<style> @keyframes pulseBorder { 0% { border-color: #ff8a1f; box-shadow: 0 0 5px rgba(255, 138, 31, 0.2); } 50% { border-color: #e67616; box-shadow: 0 0 20px rgba(255, 138, 31, 0.6); } 100% { border-color: #ff8a1f; box-shadow: 0 0 5px rgba(255, 138, 31, 0.2); } } @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } } .animated-box { background: #141b2d; border: 2px solid #ff8a1f; padding: 20px; border-radius: 12px; animation: pulseBorder 2s infinite ease-in-out; } .spinner { display: inline-block; animation: spin 1s infinite linear; color: #ff8a1f; font-weight: bold; } </style>
 
-- 📫 Wie du mich erreichst **planeteriumprovider@gmail.com**
+<div class="animated-box">
+  <div class="spinner">⚡</div> 
+  <span style="color: #f8fafc; font-weight: bold; margin-left: 10px;">
+    Aktueller Fokus: Zarven Bot-Infrastruktur
+  </span>
+  <p style="color: #94a3b8; margin: 10px 0 0 32px; font-size: 14px;">
+    Ich habe die alleinige Führung und Entwicklung des gigantischen Zarven-Projekts übernommen. Aktuell warte und pflege ich den WhatsApp-Bot, den Discord-Bot, die gesamte Website und bereite die kommende App vor, um die Ära der Community erfolgreich weiterzuführen.
+  </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/planeteriumprovider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="planeteriumprovider" height="30" width="40" /></a>
-</p>
+## 🚀 Über mich
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Moin zusammen! Ich bin Julian, in der Dev-Szene meist als **SnaX** unterwegs. Mit meinen 15 Jahren bringe ich die nötige Reife, Ausdauer und vor allem eine riesige Portion Leidenschaft für sauberen Code mit. Everything is self-taught – ich habe mir seit meinem 12. Lebensjahr alles komplett selbst beigebracht. Meine Reise begann kurioserweise auf dem Smartphone – heute arbeite ich hochgradig fokussiert in VS Code.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/SnaXi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SnaXi" /></a></p><br><br>
+Mein Ziel nach dem Schulabschluss steht fest: Ich möchte als Fachinformatiker für Anwendungsentwicklung durchstarten oder mich intensiv im Bereich Webentwicklung & Webdesign spezialisieren.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs? Benutzername=planeteriumprovider&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=0000000&locale=de&layout=compact" alt="planeteriumprovider" /></p>
+* 💡 **Mein Antrieb:** Probleme lösen, Systeme optimieren und Nächte durchprogrammieren, wenn ein Projekt mich packt.
+* 🧗‍♂️ **Ausgleich:** In meiner Freizeit gehe ich gerne Klettern, was mir zusätzliche Konzentration und Kraft gibt.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api? Benutzername=planeteriumprovider&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=de" alt="planeteriumprovider" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/? user=planeteriumprovider&theme=dark" alt="planeteriumprovider" /></p>
+## 🛠️ Tech-Stack & Fokus
+
+Ich bewege mich hauptsächlich im Web-Backend und Frontend. Mein Fokus liegt auf funktionalen Webanwendungen, Datenbankarchitekturen und Suchmaschinenoptimierung.
+
+### Sprachen & Datenstrukturen
+* **Frontend:** <a href="https://emoji.gg/emoji/HTML"><img src="https://cdn3.emoji.gg/emojis/HTML.png" width="20" align="middle"></a> HTML5, CSS3, JavaScript (JS)
+* **Backend:** PHP
+* **Datenbanken:** SQL & JSON
+
+### Frameworks & Tools
+* **Styling:** TailwindCSS (zur Modernisierung und Optimierung des gesamten Design-Workflows)
+* **Editor:** VS Code
+
+### Spezialgebiet
+* **SEO-Optimierung:** Strukturierung und Performance-Anpassungen für maximale Sichtbarkeit.
+
+---
+
+## 💻 Projekte & Erfahrung
+
+### 🤖 Zarven (WhatsApp Bot & Ecosystem)
+Ich habe die Projektleitung und die vollständige Entwicklung übernommen. Ich bin für das gesamte Ökosystem zuständig:
+* **Die Website:** Erhält aktuell ein modernes, responsives Design mit flüssigen Animationen. Ich schreibe das komplette CSS auf TailwindCSS um, um die Performance zu optimieren.
+* **Infrastruktur:** Vollständige Wartung der WhatsApp- und Discord-Bots sowie die Konzeptionierung der zukünftigen App.
+
+### 🪐 Planeterium
+Mein ehemaliges Herzensprojekt war ein eigener WhatsApp-Bot auf Basis der Baileys-Library. Vor ca. 8 Monaten musste ich das Projekt aus Zeitgründen einstellen. Der Code ist aktuell eingefroren. Falls jemand Lust hat, das Projekt gemeinsam mit mir zu pflegen oder wiederzubeleben, meldet euch gerne!
+
+### 🔓 Lizenzierte Software & Open Source
+* **Eigene Projekte:** Ich entwickle lizenzierte Webanwendungen und Dashboards, in die ich viel Arbeit stecke.
+* **Open Source:** Kürzlich habe ich mein erstes komplett freies Projekt veröffentlicht. Es ist zu 100 % kostenlos und darf ohne Quellenangabe genutzt oder modifiziert werden.
+
+---
+
+## ⚙️ System-Status & Live-Metriken
+
+<div style="background: rgba(255, 255, 255, 0.03); border-left: 4px solid #ff8a1f; padding: 15px; border-radius: 8px; margin: 20px 0;">
+  <span style="color: #ff8a1f; font-weight: bold; font-size: 1.1em;">⚡ Zarven Core-Status</span><br>
+  <span style="color: #cbd5e1;">Die Session Verbindungen stehen. Alle Sessions sind aktiv und einsatzbereit.</span>
+</div>
+
+* **Bot-Synchronisation:** <progress value="100" max="100"></progress> 100% einsatzbereit
+* **Datenbank-Auslastung:** <progress value="100" low="0.3" high="0.7" optimum="0.2"></progress> Normaler Betrieb
 
