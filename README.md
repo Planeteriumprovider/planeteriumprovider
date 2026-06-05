@@ -5,7 +5,7 @@
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="https://i.imgur.com/RG3ZHZt.jpeg" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ff8a1f; object-fit: cover;" alt="Zarven Logo">
   <div>
-    <strong style="color: #f8fafc; font-size: 22px;">Julian | SnaX</strong><br>
+    <strong><a href="https://emoji.gg/emoji/77451-stafficonids"><img src="https://cdn3.emoji.gg/emojis/77451-stafficonids.png" width="64px" height="64px" alt="StaffIconIDS"></a> Julian | SnaX</strong><br>
     <span style="color: #ff8a1f; font-size: 16px;">Self-taught Web Developer & Bot Engineer</span>
   </div>
 </div>
@@ -22,18 +22,18 @@ Moin zusammen! Ich bin Julian, in der Dev-Szene meist als **SnaX** unterwegs. Mi
 
 ##### **Mein Ziel nach dem Schulabschluss steht fest:** Ich möchte als Fachinformatiker für Anwendungsentwicklung durchstarten oder mich intensiv im Bereich Webentwicklung & Webdesign spezialisieren.
 
-* 💡 **Mein Antrieb:** Probleme lösen, Systeme optimieren und Nächte durchprogrammieren, wenn ein Projekt mich packt.
-* 🧗‍♂️ **Ausgleich:** In meiner Freizeit gehe ich gerne Klettern, was mir zusätzliche Konzentration und Kraft gibt.
+* <a href="https://emoji.gg/emoji/29623-this-is-fine-shwompy"><img src="https://cdn3.emoji.gg/emojis/29623-this-is-fine-shwompy.png" width="32px" height="32px" alt="This_Is_Fine_Shwompy"></a> **Mein Antrieb:** Probleme lösen, Systeme optimieren und Nächte durchprogrammieren, wenn ein Projekt mich packt.
+* <a href="https://emoji.gg/emoji/164860-whiteduckenjoying"><img src="https://cdn3.emoji.gg/emojis/164860-whiteduckenjoying.png" width="32px" height="32px" alt="Whiteduckenjoying"></a> **Ausgleich:** In meiner Freizeit gehe ich gerne Klettern, was mir zusätzliche Konzentration und Kraft gibt.
 
 ---
 
-## 📊 Statistiken
+## <a href="https://emoji.gg/emoji/1423-statistics"><img src="https://cdn3.emoji.gg/emojis/1423-statistics.png" width="32px" height="32px" alt="statistics"></a> Statistiken
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=planeteriumprovider&theme=meta-dark&border_radius=5&locale=de&date_format=j%20M%5B%20Y%5D&fire=FF9110" alt="GitHub Streak" /></a>
 
 ---
 
-## 🛠️ Tech-Stack & Fokus
+## <a href="https://emoji.gg/emoji/249630-gradientgear"><img src="https://cdn3.emoji.gg/emojis/249630-gradientgear.png" width="32px" height="32px" alt="GradientGear"></a> Tech-Stack & Fokus
 
 Ich bewege mich hauptsächlich im Web-Backend und Frontend. Mein Fokus liegt auf funktionalen Webanwendungen, Datenbankarchitekturen und Suchmaschinenoptimierung.
 
@@ -54,25 +54,25 @@ Ich bewege mich hauptsächlich im Web-Backend und Frontend. Mein Fokus liegt auf
 
 ---
 
-## 💻 Projekte & Erfahrung
+## <a href="https://emoji.gg/emoji/335142-developericon"><img src="https://cdn3.emoji.gg/emojis/335142-developericon.png" width="32px" height="32px" alt="DeveloperIcon"></a> Projekte & Erfahrung
 
-### 🤖 Zarven (WhatsApp Bot & Ecosystem)
+### <a href="https://emoji.gg/emoji/623618-bot"><img src="https://cdn3.emoji.gg/emojis/623618-bot.png" width="32px" height="32px" alt="Bot"></a> Zarven (WhatsApp Bot & Ecosystem)
 Ich habe die Projektleitung und die vollständige Entwicklung übernommen. Ich bin für das gesamte Ökosystem zuständig:
 * **Die Website:** Erhält aktuell ein modernes, responsives Design mit flüssigen Animationen. Ich schreibe das komplette CSS auf TailwindCSS um, um die Performance zu optimieren.
 * **Infrastruktur:** Vollständige Wartung der WhatsApp- und Discord-Bots sowie die Konzeptionierung der zukünftigen App.
 
-### 🪐 Planeterium
+### <a href="https://emoji.gg/emoji/7619-planet"><img src="https://cdn3.emoji.gg/emojis/7619-planet.png" width="32px" height="32px" alt="planet"></a> Planeterium
 Mein ehemaliges Herzensprojekt war ein eigener WhatsApp-Bot auf Basis der Baileys-Library. Vor ca. 8 Monaten musste ich das Projekt aus Zeitgründen einstellen. Der Code ist aktuell eingefroren. Falls jemand Lust hat, das Projekt gemeinsam mit mir zu pflegen oder wiederzubeleben, meldet euch gerne!
 
-### 🔓 Lizenzierte Software & Open Source
+### <a href="https://emoji.gg/emoji/943972-shield"><img src="https://cdn3.emoji.gg/emojis/943972-shield.png" width="32px" height="32px" alt="Shield"></a> Lizenzierte Software & Open Source
 * **Eigene Projekte:** Ich entwickle lizenzierte Webanwendungen und Dashboards, in die ich viel Arbeit stecke.
 * **Open Source:** Kürzlich habe ich mein erstes komplett freies Projekt veröffentlicht. Es ist zu 100 % kostenlos und darf ohne Quellenangabe genutzt oder modifiziert werden.
 
 ---
 
-## ⚙️ System-Status & Live-Metriken
+## <a href="https://emoji.gg/emoji/3442-verifiedsystem"><img src="https://cdn3.emoji.gg/emojis/3442-verifiedsystem.png" width="32px" height="32px" alt="VerifiedSystem"></a> System-Status & Live-Metriken
 
-### ⚡ Zarven Core-Status
+### <a href="https://emoji.gg/emoji/98424-rainbowboost"><img src="https://cdn3.emoji.gg/emojis/98424-rainbowboost.gif" width="32px" height="32px" alt="Rainbowboost"></a> Zarven Core-Status
 Die Session Verbindungen stehen. Alle Sessions sind aktiv und einsatzbereit.
 
 * **Bot-Synchronisation:** 100% einsatzbereit
@@ -80,11 +80,11 @@ Die Session Verbindungen stehen. Alle Sessions sind aktiv und einsatzbereit.
 
 ---
 
-## 🙏 Support und Spenden - Unterstützung für die weiterentwicklung von Zarven
+## <a href="https://emoji.gg/emoji/494279-apoiador"><img src="https://cdn3.emoji.gg/emojis/494279-apoiador.png" width="32px" height="32px" alt="apoiador"></a> Support und Spenden - Unterstützung für die weiterentwicklung von Zarven
 
 <h3 align="left">Buy me a Coffee:</h3>
 <p><a href="https://www.buymeacoffee.com/SnaXi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SnaXi" /></a></p><br><br>
 
 ---
 
-Zarven Entertainment 2026 Copyright.
+<a href="https://emoji.gg/emoji/513618-copyright"><img src="https://cdn3.emoji.gg/emojis/513618-copyright.png" width="15px" height="15px" alt="Copyright"></a> Zarven Entertainment 2026 Copyright.
