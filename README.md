@@ -5,7 +5,7 @@
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="https://i.imgur.com/RG3ZHZt.jpeg" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ff8a1f; object-fit: cover;" alt="Zarven Logo">
   <div>
-    <strong><a href="https://emoji.gg/emoji/77451-stafficonids"><img src="https://cdn3.emoji.gg/emojis/77451-stafficonids.png" width="64px" height="64px" alt="StaffIconIDS"></a> Julian | SnaX</strong><br>
+    <a href="https://emoji.gg/emoji/77451-stafficonids"><img src="https://cdn3.emoji.gg/emojis/77451-stafficonids.png" width="64px" height="64px" alt="StaffIconIDS"></a><strong> Julian | SnaX</strong><br>
     <span style="color: #ff8a1f; font-size: 16px;">Self-taught Web Developer & Bot Engineer</span>
   </div>
 </div>
