@@ -16,7 +16,7 @@
 <hr style="border: 0; height: 1px; background: rgba(255, 255, 255, 0.1); margin: 20px 0;">
 
 
-## <a href="https://emoji.gg/emoji/394661-github"><img src="https://cdn3.emoji.gg/emojis/394661-github.png" width="16px" height="16px" alt="Github"></a> Über mich
+## <a href="https://emoji.gg/emoji/394661-github"><img src="https://cdn3.emoji.gg/emojis/394661-github.png" width="32px" height="32px" alt="Github"></a> Über mich
 
 Moin zusammen! Ich bin Julian, in der Dev-Szene meist als **SnaX** unterwegs. Mit meinen 15 Jahren bringe ich die nötige Reife, Ausdauer und vor allem eine riesige Portion Leidenschaft für sauberen Code mit. Everything is self-taught – ich habe mir seit meinem 12. Lebensjahr alles komplett selbst beigebracht. Meine Reise begann kurioserweise auf dem Smartphone – heute arbeite ich hochgradig fokussiert in VS Code.
 
