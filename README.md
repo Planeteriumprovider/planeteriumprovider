@@ -39,7 +39,7 @@ Moin zusammen! Ich bin Julian, in der Dev-Szene meist als <strong>SnaXi</strong>
 Ich bewege mich hauptsächlich im Web-Backend und Frontend. Mein Fokus liegt auf funktionalen Webanwendungen, Datenbankarchitekturen und Suchmaschinenoptimierung.
 
 ### Sprachen & Datenstrukturen
-* **Frontend:** <a href="https://emoji.gg/emoji/HTML"><img src="https://cdn3.emoji.gg/emojis/HTML.png" width="20" align="middle"></a> HTML5, CSS3, JavaScript (JS)
+* **Frontend:** HTML5, CSS3, JavaScript (JS)
 * **Backend:** PHP
 * **Datenbanken:** SQL & JSON
 
