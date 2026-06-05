@@ -27,10 +27,6 @@ Moin zusammen! Ich bin Julian, in der Dev-Szene meist als **SnaX** unterwegs. Mi
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=planeteriumprovider&theme=meta-dark&border_radius=5&locale=de&date_format=j%20M%5B%20Y%5D&fire=FF9110" alt="GitHub Streak" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=planeteriumprovider&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=de&layout=compact" alt="planeteriumprovider" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=planeteriumprovider&show_icons=true&theme=dark&title_color=ff8000&text_color=ffffff&bg_color=000000&locale=de" alt="planeteriumprovider" /></p>
-
 ---
 
 ## 🛠️ Tech-Stack & Fokus
