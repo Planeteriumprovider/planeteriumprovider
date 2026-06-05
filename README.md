@@ -10,11 +10,11 @@
   </div>
 </div>
 
-<hr style="border: 0; height: 1px; background: rgba(255, 255, 255, 0.1); margin: 20px 0;">
 
 #### Ich habe die alleinige Führung und Entwicklung des gigantischen Zarven-Projekts übernommen. Aktuell warte und pflege ich den WhatsApp-Bot, den Discord-Bot, die gesamte Website und bereite die kommende App vor, um die Ära der Community erfolgreich weiterzuführen.
 
 <hr style="border: 0; height: 1px; background: rgba(255, 255, 255, 0.1); margin: 20px 0;">
+
 
 ## 🚀 Über mich
 
