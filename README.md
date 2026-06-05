@@ -3,7 +3,7 @@
 <hr style="border: 0; height: 1px; background: rgba(255, 255, 255, 0.1); margin: 20px 0;">
 
 <div style="display: flex; gap: 20px; align-items: center;">
-  <img src="https://i.imgur.com/RG3ZHZt.jpeg" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ff8a1f; object-fit: cover;" alt="SnaXis Profil">
+  <img src="/assets/profile/SnaXi.jpg" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #ff8a1f; object-fit: cover;" alt="SnaXis Profil">
   <div>
  <a href="https://emoji.gg/emoji/77451-stafficonids"><img src="https://cdn3.emoji.gg/emojis/77451-stafficonids.png" width="50px" height="50px" align="middle" alt="StaffIconIDS"></a>  <strong>Julian | SnaXi</strong>
     <span>Self-taught Web Developer & Bot Engineer</span>
